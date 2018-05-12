@@ -1,0 +1,30 @@
+?ng d?ng cho phép ngu?i dùng gõ vào m?t t? và ?ng d?ng s? hi?n th? t?t c? các n?i dung c?a t? dó và các t? có liên quan. M?i m?t t? có th? thu?c m?t th? lo?i nh?t d?nh. Danh sách các th? lo?i du?c luu trong m?t file có c?u trúc nhu sau:
+Mã th? lo?i
+Tên th? lo?i
+Các tru?ng, phân cách b?ng d?u ;
+
+Ví d?
+1
+Qu?c gia
+th? dô;don v? ti?n t?; dân s?;di?n tích;l?ch s? phát tri?n;
+
+T?
+Mã th? lo?i
+Giá tr? các tru?ng
+
+Ví d?
+Toyota
+2
+Akio Toyoda
+202860000000
+Toyota was started in 1933 as a division of Toyoda
+Automatic Loom Works devoted to the production of automobiles under the
+direction of the founder's son, Kiichiro Toyoda....
+Các ch?c nang c?a ?ng d?ng :
+1. Gõ vào m?t t? và hi?n th? t?t c? các thông tin c?a t? dó
+2.Thêm t?
+3.Thêm th? lo?i
+4.Th?ng kê t?t c? các t? trong m?t th? lo?i nào dó
+5.S?a, xóa t?
+6.S?a, xóa th? lo?i. T?t c? các t? c?a th? lo?i dó s? b? xóa.
+7.Thoát chuong trình.
